@@ -1,0 +1,41 @@
+_repo: A-Budget-of-Paradoxes-Volume-I_23100
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Morgan, Augustus
+    alias: Morgan, Augustus de
+    birthdate: 1806
+    deathdate: 1871
+    gutenberg_agent_id: '25678'
+    url: http://www.gutenberg.org/2009/agents/25678
+    wikipedia: http://en.wikipedia.org/wiki/Augustus_De_Morgan
+  editor:
+    agent_name: Smith, David Eugene
+    aliases:
+    - Smith, Eugene
+    - Dunham, David
+    birthdate: 1860
+    deathdate: 1944
+    gutenberg_agent_id: '3258'
+    url: http://www.gutenberg.org/2009/agents/3258
+    wikipedia: http://en.wikipedia.org/wiki/David_Eugene_Smith
+description: ''
+gutenberg_issued: '2007-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Miscellanea'
+- !lcsh 'Perpetual motion'
+- !lcsh 'Circle-squaring'
+- !lcsh 'Trisection of angle'
+- !lcc 'AC'
+title: A Budget of Paradoxes, Volume I
+url: http://www.gutenberg.org/ebooks/23100
